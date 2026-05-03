@@ -1,4 +1,4 @@
-CREATE DATABASE swapit;
+CREATE DATABASE IF NOT EXISTS swapit;
 USE swapit;
 
 CREATE TABLE users (
